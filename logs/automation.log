@@ -1,0 +1,9 @@
+2024-07-02 11:54:18 INFO  Tc_002_LoginTest:15 - Login test Started
+2024-07-02 11:54:18 INFO  Tc_002_LoginTest:17 - homePage is opened
+2024-07-02 11:54:19 INFO  Tc_002_LoginTest:20 - Login Page Strted
+2024-07-02 11:54:19 INFO  Tc_002_LoginTest:25 - my account page is started
+2024-07-02 11:54:20 INFO  Tc_002_LoginTest:36 - login teste is exuceted
+2024-07-02 11:54:23 INFO  TC_001_AccountRegistrationTest:16 - account clik
+2024-07-02 11:54:23 INFO  TC_001_AccountRegistrationTest:18 - register account
+2024-07-02 11:54:24 INFO  TC_001_AccountRegistrationTest:37 - the test is passed
+2024-07-02 11:54:24 INFO  TC_001_AccountRegistrationTest:44 - TC_001_AccountRegistrationTest is completed
